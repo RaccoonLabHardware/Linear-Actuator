@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Linear Actuator V3.1.PrjPcb]
+   Generated File[Bill of Materials-Linear Actuator V3.1_BomDoc.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:42:58 On 10.02.2022

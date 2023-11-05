@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Linear Actuator V3.1_SchDoc.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Linear Actuator V3.1_SchDoc.SchDoc|Designator=DCDC-LMR16030|SchDesignator=DCDC-LMR16030|FileName=DCDC-LMR16030.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=DCDC-LMR16030.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Linear Actuator V3.1_SchDoc.SchDoc|Designator=STM32F103T8|SchDesignator=STM32F103T8|FileName=STM32F103T8.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=STM32F103T8.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
